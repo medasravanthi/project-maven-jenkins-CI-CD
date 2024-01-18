@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps with  Real time projects only  at Naresh-IT 2024 HYD </h1>
+    <h1>New user Register for DevOps and aws with  Real time projects only  at Naresh-IT 2024 HYD </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
